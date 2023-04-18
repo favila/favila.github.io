@@ -46,7 +46,7 @@ description   : 'The personal blog of Francis Avila with topics including Clojur
 
 # Build settings
 url           : ''
-baseurl       : 'https://favila.github.io'
+baseurl       : ''
 markdown      : kramdown
 highlighter   : rouge
 permalink     : /:year-:month-:day/:title/
