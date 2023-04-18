@@ -1,0 +1,17 @@
+/* Typography for Articles
+------------------------------------------------------------------- */
+
+.subheadline {
+  font-family: $header-font-family;
+  color: $grey-color;
+  margin: 0;
+}
+
+article div.main-content > p:first-child {
+  font-weight: bold;
+}
+
+article header p.byline {
+  margin: 0;
+  color: $footer-color;
+}

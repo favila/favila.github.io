@@ -1,0 +1,5 @@
+- name: "About Me"
+  url: "/about/"
+
+- name: "All Articles"
+  url: "/blog/"

@@ -1,0 +1,27 @@
+<nav id="tnav" class="tnav-horizontal">
+  <ul class="tnav-list">
+
+    <li id="tnav-logo" class="tnav-item tnav-has-children tnav-allow-hover no-dropdown-arrow"><a href="{{"/" | absolute_url }}" accesskey="1">{{ site.short_title }}</a>
+      <ul class="tnav-children">
+        <li class="tnav-item"><a href="{{ "/about/" | absolute_url }}">About {{ site.title }}</a></li>
+        <li class="tnav-item tnav-hide"><a href="{{ "/archive/" | absolute_url }}">All Posts</a></li>
+      </ul>
+    </li>
+
+{% comment %}
+#   This is just an example of a dropdown menu of the navigation.
+#   Delete comments to use it.
+#
+    <li class="tnav-item tnav-hide tnav-has-children tnav-allow-hover"><a href="#">Dropdown</a>
+      <ul class="tnav-children">
+        <li class="tnav-item"><a href="#">Dropdown Item 1</a></li>
+        <li class="tnav-item"><a href="#">Dropdown Item 2</a></li>
+        <li class="tnav-item"><a href="#">Dropdown Item 3</a></li>
+      </ul>
+    </li>
+{% endcomment %}
+
+    <li id="tnav-search" class="tnav-item"><a href="{{ "/search/" | absolute_url }}" title="Search this site">{% include svg/search.svg %}</a></li>
+
+  </ul>
+</nav>
