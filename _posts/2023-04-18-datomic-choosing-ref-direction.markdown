@@ -114,7 +114,7 @@ the passenger will always end up in only one vehicle at a time.
 ## Why prefer `:vehicle/passengers`?
 
 It's not all roses, however.
-There are two downsides to preferring the lower-cardinality 
+There are three downsides to preferring the lower-cardinality 
 `:passenger/vehicle` direction.
 
 ### Schema legibility
