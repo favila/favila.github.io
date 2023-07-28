@@ -80,7 +80,7 @@ excerpt_separator: <!--more-->   # Use <!--more--> in your posts to generate an 
 #  - legacy
 #  - yule
 
-color_scheme: simplicity
+color_scheme: legacy
 
 
 
@@ -114,8 +114,8 @@ font:
 #   What is a modular scale?
 #   Read this › http://alistapart.com/article/more-meaningful-typography
 
-modular_scale: modular_scale_1em
-#modular_scale: modular_scale_ratio_1_125
+#modular_scale: modular_scale_1em
+modular_scale: modular_scale_ratio_1_125
 
 
 
