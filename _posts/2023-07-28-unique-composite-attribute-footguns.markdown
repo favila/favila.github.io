@@ -58,7 +58,7 @@ causing the `:reg/student` value on all the registration entities to become
 The first time you delete a student you will be fine:
 no constraint is violated.
 However a landmine is left behind: the composite's value is now
-`[course-id semester-value `nil`]`!
+`[course-id semester-value nil]`!
 You will be unable to retract the *next* student that has a registration
 for the same course and semester, because that would violate the uniqueness 
 constraint.
