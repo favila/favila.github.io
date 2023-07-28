@@ -184,7 +184,7 @@ manifest:                               'site.webmanifest'
 
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 
 
 #        ____  _
