@@ -214,7 +214,7 @@ wrong choice, your easiest option is:
    deprecated.
 3. Just accept the minor tax of Datomic maintaining this value.
 
-# Footnotes
+## Footnotes
 
 [^1]: There is an interesting comparison to make with SQL databases and 
       their treatment of NULL in unique indexes.
