@@ -1,0 +1,10 @@
+---
+layout: null
+title: "Bing Site Verification"
+permalink: /BingSiteAuth.xml
+sitemap: false
+---
+<?xml version="1.0"?>
+<users>
+	<user>9B326770CC88BB4B4023357ED227DAD5</user>
+</users>
