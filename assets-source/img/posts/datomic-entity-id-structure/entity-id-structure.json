@@ -1,0 +1,28 @@
+[
+  {
+    "name": "T counter number",
+    "bits": 42,
+    "type": "5"
+  },
+  {
+    "name": "Partition Entity Id or Implicit Number",
+    "bits": 19,
+    "type": "4"
+  },
+  {
+    "name": "PType",
+    "rotate": -30,
+    "bits": 1,
+    "type": "4"
+  },
+  {
+    "bits": 1,
+    "type": "2"
+  },
+  {
+    "name": "TempId",
+    "bits": 1,
+    "type": "1",
+    "rotate": -30
+  }
+]
