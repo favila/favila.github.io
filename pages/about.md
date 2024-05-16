@@ -18,8 +18,8 @@ which has a very large and long-running Datomic database.
 
 If you want to know more about my career, check my [LinkedIn profile].
 
-If you want to contact me, send @favila a direct message on [clojurians 
-slack].
+If you want to contact me, send @favila a direct message on [Clojurians 
+Slack] or [Twitter].
 
 [Clojure]: https://clojure.org/
 [ClojureScript]: https://clojurescript.org/
@@ -27,7 +27,9 @@ slack].
 [clojure-in-action]: https://www.manning.com/books/clojure-in-action-second-edition
 [Shortcut]: https://www.shortcut.com/
 [LinkedIn profile]: https://linkedin.com/in/{{site.socialmedia.linkedin}}
-[clojurians slack]: https://clojurians.slack.com/
+[Clojurians Slack]: https://clojurians.slack.com/
+[Twitter]: https://twitter.com/{{site.socialmedia.twitter}}
+
 ## About this site's name
 
 This site's title references two intellectual virtues from Aristotle's
