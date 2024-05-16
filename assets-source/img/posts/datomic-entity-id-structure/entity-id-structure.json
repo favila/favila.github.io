@@ -1,11 +1,11 @@
 [
   {
-    "name": "T counter number",
+    "name": "Counter field",
     "bits": 42,
     "type": "5"
   },
   {
-    "name": "Partition Entity Id or Implicit Number",
+    "name": "Partition id",
     "bits": 19,
     "type": "4"
   },

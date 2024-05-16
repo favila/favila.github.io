@@ -39,7 +39,7 @@
       </g>
       <g>
         <g>
-          <rect width="761" height="35" field="T counter number" style="fill-opacity:0.1;fill:#ffbf00"/>
+          <rect width="761" height="35" field="Counter field" style="fill-opacity:0.1;fill:#ffbf00"/>
         </g>
         <g transform="translate(24,-11)">
           <g transform="translate(713)">
@@ -52,7 +52,7 @@
         <g transform="translate(24,17)">
           <g transform="translate(357)">
             <text y="6">
-              <tspan>T counter number</tspan>
+              <tspan>Counter field</tspan>
             </text>
           </g>
         </g>
@@ -98,7 +98,7 @@
       </g>
       <g>
         <g>
-          <rect width="761" height="35" field="T counter number" style="fill-opacity:0.1;fill:#ffbf00"/>
+          <rect width="761" height="35" field="Counter field" style="fill-opacity:0.1;fill:#ffbf00"/>
         </g>
         <g transform="translate(24,-11)">
           <g transform="translate(713)">
@@ -111,7 +111,7 @@
         <g transform="translate(24,17)">
           <g transform="translate(357)">
             <text y="6">
-              <tspan>T counter number</tspan>
+              <tspan>Counter field</tspan>
             </text>
           </g>
         </g>
@@ -156,8 +156,8 @@
       </g>
       <g>
         <g>
-          <rect x="285" width="476" height="35" field="T counter number" style="fill-opacity:0.1;fill:#ffbf00"/>
-          <rect width="285" height="35" field="Partition Entity Id or Implicit Number" style="fill-opacity:0.1;fill:#00ffd5"/>
+          <rect x="285" width="476" height="35" field="Counter field" style="fill-opacity:0.1;fill:#ffbf00"/>
+          <rect width="285" height="35" field="Partition id" style="fill-opacity:0.1;fill:#00ffd5"/>
         </g>
         <g transform="translate(24,-11)">
           <g transform="translate(713)">
@@ -176,12 +176,12 @@
         <g transform="translate(24,17)">
           <g transform="translate(499)">
             <text y="6">
-              <tspan>T counter number</tspan>
+              <tspan>Counter field</tspan>
             </text>
           </g>
           <g transform="translate(119)">
             <text y="6">
-              <tspan>Partition Entity Id or Implicit Number</tspan>
+              <tspan>Partition id</tspan>
             </text>
           </g>
         </g>
@@ -224,7 +224,7 @@
       </g>
       <g>
         <g>
-          <rect x="143" width="618" height="35" field="Partition Entity Id or Implicit Number" style="fill-opacity:0.1;fill:#00ffd5"/>
+          <rect x="143" width="618" height="35" field="Partition id" style="fill-opacity:0.1;fill:#00ffd5"/>
           <rect x="95" width="48" height="35" field="PType" style="fill-opacity:0.1;fill:#00ffd5"/>
           <rect x="48" width="48" height="35" field="undefined" style="fill-opacity:0.1;fill:#ff0000"/>
           <rect width="48" height="35" field="TempId" style="fill-opacity:0.1"/>
@@ -249,7 +249,7 @@
         <g transform="translate(24,17)">
           <g transform="translate(428)">
             <text y="6">
-              <tspan>Partition Entity Id or Implicit Number</tspan>
+              <tspan>Partition id</tspan>
             </text>
           </g>
           <g transform="translate(95)">
