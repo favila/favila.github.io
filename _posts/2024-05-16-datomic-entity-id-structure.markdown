@@ -613,14 +613,13 @@ Lets look at one:
 
 ```clojure
 ;; Using a fresh database
-
-
 (d/basis-t db)
 => 66
+;; This will be the next transaction T
 (d/next-t db)
 => 1000
-
-
+;; Let's get a datom object, such as a new :db/txInstant assertion
+(def datom (first (:tx-data (d/with db []))))
 datom
 ;; Slots  :e             :a :v                                   :tx            :added
 => #datom[13194139534312 50 #inst"2024-05-16T15:27:56.377-00:00" 13194139534312 true]
