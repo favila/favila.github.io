@@ -174,7 +174,7 @@ defaults:
 favicon-16x16:                          'favicon-16x16.png'
 favicon-32x32:                          'favicon-32x32.png'
 touch-icon-192x192:                     'android-chrome-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
+apple-touch-icon-180x180-precomposed:   'apple-touch-icon.png'
 manifest:                               'site.webmanifest'
 
 #      _____
