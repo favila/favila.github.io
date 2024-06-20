@@ -12,9 +12,9 @@ I even co-authored a [Clojure book][clojure-in-action] back in 2015.
 
 This site is a vehicle for me to share my technical knowledge and opinions.
 
-Since 2019 I've been a backend engineer at [Shortcut],
+From 2019 to May 2024 I was a backend engineer at [Shortcut],
 which has a very large and long-running Datomic database.
-
+I'm currently looking for a new role.
 
 If you want to know more about my career, check my [LinkedIn profile].
 
