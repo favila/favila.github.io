@@ -75,6 +75,16 @@ p {
   word-break: break-word;
 }
 
+/* Added by favila: prevent hyphenation of code */
+code {
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  -ms-word-break: normal;
+  /* Non standard for webkit */
+  word-break: normal;
+}
 
 
 /* Images
