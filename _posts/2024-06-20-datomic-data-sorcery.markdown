@@ -1,5 +1,6 @@
 ---
 title: Making Custom Datomic Datalog Datasources
+last_modified_at: 2024-07-10T20:20:00.000-00:00
 subheadline: Data$ourcery!
 categories: datasource datalog datomic-internals datomic
 excerpt:
@@ -19,11 +20,6 @@ and none of the interfaces discussed here are public,
 so expect inaccuracies!
 
 _Caveat Lector_ out of the way, let's get started.
-
-<small>
-(By the way, I no longer work at Shortcut and I am looking for a new role.
-Perhaps you need someone who [knows Datomic][he-knows-datomic]?)
-</small>
 
 [he-knows-datomic]: https://clojurians.slack.com/archives/C02BJCKN0R4/p1691422594104289
 

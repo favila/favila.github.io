@@ -12,10 +12,6 @@ I even co-authored a [Clojure book][clojure-in-action] back in 2015.
 
 This site is a vehicle for me to share my technical knowledge and opinions.
 
-From 2019 to May 2024 I was a backend engineer at [Shortcut],
-which has a very large and long-running Datomic database.
-I'm currently looking for a new role.
-
 If you want to know more about my career, check my [LinkedIn profile].
 
 If you want to contact me, send @favila a direct message on [Clojurians 
@@ -25,7 +21,6 @@ Slack] or [Twitter].
 [ClojureScript]: https://clojurescript.org/
 [Datomic]: https://datomic.com
 [clojure-in-action]: https://www.manning.com/books/clojure-in-action-second-edition
-[Shortcut]: https://www.shortcut.com/
 [LinkedIn profile]: https://linkedin.com/in/{{site.socialmedia.linkedin}}
 [Clojurians Slack]: https://clojurians.slack.com/
 [Twitter]: https://twitter.com/{{site.socialmedia.twitter}}

@@ -1,5 +1,6 @@
 ---
 title: Datomic Entity Id and Datom Internals
+last_modified_at: 2024-07-10T20:20:00.000-00:00
 subheadline: Counters and Bits Make Everything Fit
 categories: datomic-internals datomic
 excerpt: >
@@ -9,15 +10,11 @@ excerpt: >
 ---
 
 This is an update of a [post I wrote in 2019]
-[Datomic Internals] for a talk given at a [Shortcut] engineering Lunch and 
-Learn.
+[Datomic Internals] for a talk given at a [Shortcut]
+engineering Lunch and Learn while I worked there. 
 
 [Datomic Internals]: https://observablehq.com/@favila/datomic-internals
 [Shortcut]: https://shortcut.com
-<small>
-(By the way, I no longer work at Shortcut and I am looking for a new role.
-Perhaps you need someone who [knows Datomic][he-knows-datomic]?)
-</small>
 
 [he-knows-datomic]: https://clojurians.slack.com/archives/C02BJCKN0R4/p1691422594104289
 
