@@ -38,9 +38,16 @@ format: page
         <h1 itemprop="name headline">{{ page.title | remove: '<p>' | remove: '</p>' }}</h1>
         {% if page.show_meta == true %}
         <p class="byline"><small>
-          {% if page.author %}{{ site.data.ui[site.lang].written_by }} {{ page.author }} // {% endif %}
-          {% capture time %}{{ page.date }}{% endcapture %}
-          <time datetime="{{ time | truncate: 13 | remove: '...' }}" itemprop="datePublished">{{ time | truncate: 13 | remove: '...' }}</time>
+          {% if page.author %}By {{ page.author }} // {% endif %}
+
+          Published on
+          {% capture published_day %}{{ page.date | date: "%Y-%m-%d"}}{% endcapture %}
+          <time datetime="{{ published_day }}" itemprop="datePublished">{{ published_day }}</time>
+
+          {% if page.last_modified_at %}
+          // Updated on
+          <time datetime="{{page.last_modified_at | date: "%Y-%m-%dT%H:%M:%S%z"}}" itemprop="dateUpdated">{{ page.last_modified_at | date: "%Y-%m-%d" }}</time>
+          {% endif %}
         </small></p>
         {% endif %}
       </header>
